@@ -449,10 +449,10 @@ p {
     line-height: 25px;
 }
 a {
-    color: #73d0da
+    color: $botton
 }
 a:hover, a:focus {
-    color: #73d0da;
+    color: $botton;
     text-decoration: none;
 }
 .texture-overlay {
@@ -473,11 +473,11 @@ Buttons
     padding: 20px 50px;
     border-radius: 3px;
     background-color: #fff;
-    color: #4b98a9;
+    color: $botton-color;
     font-size: 16px;
 }
 .use-btn:hover, .use-btn:focus {
-    background-color: #73d0da;
+    background-color: $botton;
     color: #fff;
     text-decoration: none;
 }
@@ -490,13 +490,13 @@ Buttons
     font-size: 16px;
 }
 .learn-btn:hover, .download-btn:hover, .learn-btn:focus, .download-btn:focus {
-    border-color: #73d0da;
-    color: #73d0da;
+    border-color: $botton;
+    color: $botton;
     text-decoration: none;
 }
 .read-more-btn {
     display: inline-block;
-    color: #323a45;
+    color: $link-dark;
     text-transform: uppercase;
     font-weight: 400;
 }
@@ -612,7 +612,7 @@ Video
 ========================================================================== */
 section.video i {
     margin-right: 10px;
-    color: #323a45;
+    color: $link-dark;
     vertical-align: middle;
     font-size: 50px;
     -webkit-transition: color 300ms ease-in-out;
@@ -627,14 +627,14 @@ section.video {
     background-color: #f6f7f9;
 }
 section.video a {
-    color: #323a45
+    color: $link-dark
 }
 section.video a:hover, section.video a:focus {
-    color: #73d0da;
+    color: $botton;
     text-decoration: none;
 }
 section.video a:hover i, section.video a:focus i {
-    color: #73d0da
+    color: $botton
 }
 
 /* ==========================================================================
@@ -659,7 +659,8 @@ Features Slider
 .features-bg {
     position: relative;
     min-height: 400px;
-    background: url('../img/features-intro-01.jpg') no-repeat center center;
+    // background: url('../img/features-intro-01.jpg') no-repeat center center;
+    background: url('../img/cabby/driver2.jpg') no-repeat center center;
     background-size: cover;
 }
 .features-img {
@@ -672,7 +673,7 @@ Features Slider
     position: relative;
     padding: 11% 100px 10% 100px;
     height: 400px;
-    background-color: #3F6184;
+    background-color: $background-dark;
 }
 .features-slider ul {
     margin: 0;
@@ -717,12 +718,12 @@ Features List
 .features-list h1 {
     margin: 0 0 10px 0;
     padding: 0;
-    color: #24374b;
+    color: $parragraph-dark;
     font-size: 20px;
 }
 .features-list p {
     margin-bottom: 20px;
-    color: #778899;
+    color: $parragraph-light;
 }
 .feature-content {
     display: inline-block;
@@ -734,7 +735,7 @@ Features List
     margin-right: 25px;
     width: 90px;
     height: 90px;
-    border: solid 2px #4e9ba3;
+    border: solid 2px $icon;
     border-radius: 50%;
     vertical-align: top;
     text-align: center;
@@ -742,7 +743,7 @@ Features List
     line-height: 90px;
 }
 .feature-icon i {
-    color: #4e9ba3
+    color: $icon
 }
 
 /* ==========================================================================
@@ -777,7 +778,8 @@ blockquote .logo-quote {
 Showcase
 ========================================================================== */
 .showcase {
-    background: url('../img/showcase-bg-fixed-01.jpg') no-repeat center center fixed;
+    // background: url('../img/showcase-bg-fixed-01.jpg') no-repeat center center fixed;
+    background: url('../img/cabby/driver3.jpg') no-repeat center center fixed;
     background-size: cover;
 }
 .showcase h1 {
@@ -833,13 +835,13 @@ Screenshots Intro
 }
 .screenshots-intro h1 {
     margin-bottom: 20px;
-    color: #24374b;
+    color: $parragraph-dark;
     font-weight: 400;
     font-size: 22px;
 }
 .screenshots-intro p {
     margin-bottom: 25px;
-    color: #778899;
+    color: $parragraph-light;
 }
 
 /* ==========================================================================
@@ -879,7 +881,7 @@ Screenshots
     padding: 25% 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(63, 97, 132, 0.85);
+    background-color: $hover-light;
     text-align: center;
     font-size: 15px;
     opacity: 0;
@@ -890,7 +892,7 @@ Screenshots
     color: #fff
 }
 .screenshots figcaption a:hover, .screenshots figcaption a:focus {
-    color: #73d0da
+    color: $botton
 }
 .screenshots figure:hover figcaption, .screenshots figure:focus figcaption {
     opacity: 1
@@ -933,7 +935,7 @@ Download Now
 ========================================================================== */
 .download {
     padding: 120px 0;
-    background-color: #3f6184;
+    background-color: $background-dark;
 }
 .download h1 {
     margin: 0 0 15px 0;
@@ -963,7 +965,7 @@ footer li {
     font-weight: 400;
 }
 footer li a {
-    color: #3f6184
+    color: $background-dark
 }
 footer li:last-child {
     margin-right: 0
@@ -1029,8 +1031,8 @@ Nav Overlay
     transition: all 300ms ease-in-out;
 }
 .overlay ul li a:hover, .overlay ul li a:focus {
-    border-color: #73d0da;
-    color: #73d0da;
+    border-color: $botton;
+    color: $botton;
 }
 
 /* Effects */
