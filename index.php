@@ -54,8 +54,9 @@
 					</div>
 					<div class="row hero-content">
 						<div class="col-md-12">
-							<h1 class="animated fadeInDown">An Exclusive, Premium HTML5 &amp; CSS3 Template by Peter Finlan, for Codrops.</h1>
-							<a href="http://tympanus.net/codrops/?p=22554" class="use-btn animated fadeInUp">Use it for free</a> <a href="#about" class="learn-btn animated fadeInUp">Learn more <i class="fa fa-arrow-down"></i></a>
+							<h1 class="animated fadeInDown">Tu chofer personalizado, para ciudar a los que más quieres.</h1>
+							<a href="http://tympanus.net/codrops/?p=22554" class="use-btn animated fadeInUp">Comienza ahora</a> 
+							<a href="#about" class="learn-btn animated fadeInUp">Conónoce más <i class="fa fa-arrow-down"></i></a>
 						</div>
 					</div>
 				</div>
