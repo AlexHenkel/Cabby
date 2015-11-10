@@ -55,7 +55,7 @@
 					<div class="row hero-content">
 						<div class="col-md-12">
 							<h1 class="animated fadeInDown">Tu chofer personalizado, para ciudar a los que más quieres.</h1>
-							<a href="http://tympanus.net/codrops/?p=22554" class="use-btn animated fadeInUp">Regístrate ahora</a> 
+							<a href="http://tympanus.net/codrops/?p=22554" class="use-btn animated fadeInUp">Comienza ahora</a> 
 							<a href="#about" class="learn-btn animated fadeInUp">Conónoce más <i class="fa fa-arrow-down"></i></a>
 						</div>
 					</div>
@@ -66,7 +66,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 text-center">
-						<h1><a href="http://www.youtube.com/embed/9No-FiEInLA?autoplay=1&wmode=opaque&fs=1" class="youtube-media"><i class="fa fa-play-circle-o"></i> Watch the Video</a></h1>
+						<h1><a href="#" class="youtube-media"><i class="fa fa-taxi"></i> Regístrate</a></h1>
 					</div>
 				</div>
 			</div>
@@ -116,7 +116,7 @@
 								<i class="fa fa-child"></i>
 							</div>
 							<div class="feature-content">
-								<h1>Padres de familia</h1>
+								<h1>Padres de Familia</h1>
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta modi perferendis repudiandae error nostrum sint rerum, reprehenderit magnam.</p>
 								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Solicítalo ya <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
@@ -126,7 +126,7 @@
 								<i class="fa fa-heartbeat"></i>
 							</div>
 							<div class="feature-content">
-								<h1>Adultos mayores y personas con discapacidad</h1>
+								<h1>Adultos Mayores y Personas con Discapacidad</h1>
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta modi perferendis repudiandae error nostrum sint rerum, reprehenderit magnam.</p>
 								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Solicítalo ya <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
@@ -136,7 +136,7 @@
 								<i class="fa fa-black-tie"></i>
 							</div>
 							<div class="feature-content">
-								<h1>Empresarios y ejecutivos</h1>
+								<h1>Empresarios y Ejecutivos</h1>
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta modi perferendis repudiandae error nostrum sint rerum, reprehenderit magnam.</p>
 								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Solicítalo ya <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
@@ -188,9 +188,9 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
-						<h1>Packed Full of Powerful Features</h1>
+						<h1>Olvídate de manejar, Cabby lo soluciona por tí.</h1>
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
-						<p><a href="#screenshots" class="arrow-btn">See the screenshots! <i class="fa fa-long-arrow-right"></i></a></p>
+						<p><a href="#screenshots" class="arrow-btn">Ver screenshots! <i class="fa fa-long-arrow-right"></i></a></p>
 					</div>
 				</div>
 			</div>
