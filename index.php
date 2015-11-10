@@ -61,6 +61,7 @@
 					</div>
 				</div>
 			</section>
+			
 		</header>
 		<section class="video" id="about">
 			<div class="container">
