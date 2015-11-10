@@ -15,7 +15,7 @@
 		<!-- Bootstrap -->
 		<script src="js/modernizr.custom.js"></script>
 
-		<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 		<link href='http://fonts.googleapis.com/css?family=Nunito:400,300,700' rel='stylesheet' type='text/css'>
 		<link href="css/app.css" rel="stylesheet">
 		<!-- Facebook and Twitter integration -->
@@ -55,7 +55,7 @@
 					<div class="row hero-content">
 						<div class="col-md-12">
 							<h1 class="animated fadeInDown">Tu chofer personalizado, para ciudar a los que más quieres.</h1>
-							<a href="http://tympanus.net/codrops/?p=22554" class="use-btn animated fadeInUp">Comienza ahora</a> 
+							<a href="http://tympanus.net/codrops/?p=22554" class="use-btn animated fadeInUp">Regístrate ahora</a> 
 							<a href="#about" class="learn-btn animated fadeInUp">Conónoce más <i class="fa fa-arrow-down"></i></a>
 						</div>
 					</div>
@@ -86,19 +86,19 @@
 						<div class="features-slider">
 								<ul class="slides" id="featuresSlider">
 									<li>
-										<h1>The Fore-front of Design &amp; Technology</h1>
+										<h1>Sobre Nosotros</h1>
 										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
-										<p><a href="#features" class="arrow-btn">Find out why this freebie rocks! <i class="fa fa-long-arrow-right"></i></a></p>
+										<p><a href="#features" class="arrow-btn">¡Comienza a usar nuestro servicio!<i class="fa fa-long-arrow-right"></i></a></p>
 									</li>
 									<li>
-										<h1>Multi-Purpose User Centric Design</h1>
+										<h1>Misión</h1>
 										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
-										<p><a href="http://tympanus.net/codrops/?p=22554" class="arrow-btn">Find out why this freebie rocks! <i class="fa fa-long-arrow-right"></i></a></p>
+										<p><a href="#" class="arrow-btn">¡Comienza a usar nuestro servicio!<i class="fa fa-long-arrow-right"></i></a></p>
 									</li>
 									<li>
-										<h1>Made with Love, Released for Free</h1>
+										<h1>Visión</h1>
 										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
-										<p><a href="http://tympanus.net/codrops/?p=22554" class="arrow-btn">Find out why this freebie rocks! <i class="fa fa-long-arrow-right"></i></a></p>
+										<p><a href="#" class="arrow-btn">¡Comienza a usar nuestro servicio!<i class="fa fa-long-arrow-right"></i></a></p>
 									</li>
 								</ul>
 						</div>
@@ -113,32 +113,32 @@
 
 						<div class="col-md-4 feature-1 wp2">
 							<div class="feature-icon">
-								<i class="fa fa-desktop"></i>
+								<i class="fa fa-child"></i>
 							</div>
 							<div class="feature-content">
-								<h1>Responsive</h1>
-								<p>Built using HTML5/CSS3 and jQuery, and built using one of the world's most powerful CSS frameworks available, Bootstrap.</p>
-								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Read More <i class="fa fa-chevron-circle-right"></i></a>
+								<h1>Padres de familia</h1>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta modi perferendis repudiandae error nostrum sint rerum, reprehenderit magnam.</p>
+								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Solicítalo ya <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 						<div class="col-md-4 feature-2 wp2 delay-05s">
 							<div class="feature-icon">
-								<i class="fa fa-flash"></i>
+								<i class="fa fa-heartbeat"></i>
 							</div>
 							<div class="feature-content">
-								<h1>Multi-Purpose</h1>
-								<p>Perfect if you run your own start-up, product or service. Boxify can showcase your business converting your visits to income.</p>
-								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Read More <i class="fa fa-chevron-circle-right"></i></a>
+								<h1>Adultos mayores y personas con discapacidad</h1>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta modi perferendis repudiandae error nostrum sint rerum, reprehenderit magnam.</p>
+								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Solicítalo ya <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 						<div class="col-md-4 feature-3 wp2 delay-1s">
 							<div class="feature-icon">
-								<i class="fa fa-heart"></i>
+								<i class="fa fa-black-tie"></i>
 							</div>
 							<div class="feature-content">
-								<h1>Absolutely Free</h1>
-								<p>As aways, download Boxify for free exclusively from Codrops. If you love Boxify and want to thank me, simply <a href="http://peterfinlan.com/">buy me a beer</a>. </p>
-								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Read More <i class="fa fa-chevron-circle-right"></i></a>
+								<h1>Empresarios y ejecutivos</h1>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta modi perferendis repudiandae error nostrum sint rerum, reprehenderit magnam.</p>
+								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Solicítalo ya <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 
@@ -171,16 +171,13 @@
 							</div>
 						</div>
 						<div class="col-md-6">
-							<h1>Showcase your Product or Service</h1>
+							<h1>Cabby es usado por los mejores</h1>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
 							<blockquote class="team-quote">
 								<div class="avatar"><img src="img/avatar.png" alt="User Avatar"></div>
 								<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc." - Peter Finlan</p>
-								<div class="logo-quote">
-									<a href="http://tympanus.net/codrops/"><img src="img/codrops-logo.png" alt="Codrops Logo"></a>
-								</div>
 							</blockquote>
-							<a href="http://tympanus.net/codrops/?p=22554" class="download-btn">Download! <i class="fa fa-download"></i></a>
+							<a href="http://tympanus.net/codrops/?p=22554" class="download-btn">Regístrate! <i class="fa fa-taxi"></i></a>
 						</div>
 					</div>
 				</div>
@@ -318,8 +315,8 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 text-center wp4">
-						<h1>Seen Enough?</h1>
-						<a href="http://tympanus.net/codrops/?p=22554" class="download-btn">Download! <i class="fa fa-download"></i></a>
+						<h1>¿Has visto demasiado?</h1>
+						<a href="http://tympanus.net/codrops/?p=22554" class="download-btn">Regístrate! <i class="fa fa-taxi"></i></a>
 					</div>
 				</div>
 			</div>
@@ -331,14 +328,14 @@
 						<h1 class="footer-logo">
 						<img src="img/logo-blue.png" alt="Footer Logo Blue">
 						</h1>
-						<p>© Boxify 2015 - <a href="http://tympanus.net/codrops/licensing/">Licence</a> - Designed &amp; Developed by <a href="http://www.peterfinlan.com/">Peter Finlan</a></p>
+						<p>© Cabby 2015</p>
 					</div>
 					<div class="col-md-7">
 						<ul class="footer-nav">
-							<li><a href="#about">About</a></li>
-							<li><a href="#features">Features</a></li>
+							<li><a href="#about">Conócenos</a></li>
+							<li><a href="#features">Servicios</a></li>
 							<li><a href="#screenshots">Screenshots</a></li>
-							<li><a href="#download">Download</a></li>
+							<li><a href="#download">Regístrate</a></li>
 						</ul>
 					</div>
 				</div>
@@ -347,12 +344,12 @@
 		<div class="overlay overlay-boxify">
 			<nav>
 				<ul>
-					<li><a href="#about"><i class="fa fa-heart"></i>About</a></li>
-					<li><a href="#features"><i class="fa fa-flash"></i>Features</a></li>
+					<li><a href="#about"><i class="fa fa-heart"></i>Conócenos</a></li>
+					<li><a href="#features"><i class="fa fa-flash"></i>Servicios</a></li>
 				</ul>
 				<ul>
 					<li><a href="#screenshots"><i class="fa fa-desktop"></i>Screenshots</a></li>
-					<li><a href="#download"><i class="fa fa-download"></i>Download</a></li>
+					<li><a href="#download"><i class="fa fa-taxi"></i>Regístrate</a></li>
 				</ul>
 			</nav>
 		</div>
