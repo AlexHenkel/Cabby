@@ -94,6 +94,8 @@
 						<span class="input__label-content input__label-content--fumi">Celular</span>
 					</label>
 				</div>
+				<br>
+				<a href="request.php" class="middle button button--tamaya button--border-thick" data-text="Regístrate"><span>Regístrate</span></a>
 			</div>
 		</section>
 		

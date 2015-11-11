@@ -71,6 +71,8 @@
 						<span class="input__label-content input__label-content--fumi">Contraseña</span>
 					</label>
 				</div>
+				<br>
+				<a href="request.php" class="middle button button--tamaya button--border-thick" data-text="Ingresar"><span>Ingresar</span></a>
 			</div>
 		</section>
 		

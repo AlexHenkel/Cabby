@@ -20,6 +20,12 @@
 	text-align: center;
 }
 
+.middle {
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
 .section-overlay {
 	padding: 30px 0;
 	position: relative;
