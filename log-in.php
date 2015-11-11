@@ -56,7 +56,7 @@
 			<div class="texture-overlay"></div>
 			<h1 class="title">Log In</h1>
 			<div class="container center">
-				<h2>¿Ya estás registrado? <a href="log-in.php" class="link">Ingresa aquí.</a></h2>
+				<h2>¿Aún no estás registrado? <a href="log-in.php" class="link">Registrate aquí.</a></h2>
 				<div class="input input--fumi">
 					<input class="input__field input__field--fumi" type="text" id="input-23" />
 					<label class="input__label input__label--fumi" for="input-23">
@@ -69,29 +69,6 @@
 					<label class="input__label input__label--fumi" for="input-23">
 						<i class="fa fa-fw fa-key icon icon--fumi"></i>
 						<span class="input__label-content input__label-content--fumi">Contraseña</span>
-					</label>
-				</div>
-				<br>
-				<h2>Información</h2>
-				<div class="input input--fumi">
-					<input class="input__field input__field--fumi" type="text" id="input-23" />
-					<label class="input__label input__label--fumi" for="input-23">
-						<i class="fa fa-fw fa-user icon icon--fumi"></i>
-						<span class="input__label-content input__label-content--fumi">Nombre</span>
-					</label>
-				</div>
-				<div class="input input--fumi">
-					<input class="input__field input__field--fumi" type="text" id="input-23" />
-					<label class="input__label input__label--fumi" for="input-23">
-						<i class="fa fa-fw fa-user-plus icon icon--fumi"></i>
-						<span class="input__label-content input__label-content--fumi">Apellidos</span>
-					</label>
-				</div>
-				<div class="input input--fumi">
-					<input class="input__field input__field--fumi" type="text" id="input-23" />
-					<label class="input__label input__label--fumi" for="input-23">
-						<i class="fa fa-fw fa-mobile icon icon--fumi"></i>
-						<span class="input__label-content input__label-content--fumi">Celular</span>
 					</label>
 				</div>
 			</div>
