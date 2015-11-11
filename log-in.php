@@ -54,7 +54,7 @@
 
 		<section id="register" class="section-overlay">
 			<div class="texture-overlay"></div>
-			<h1 class="title">Registro</h1>
+			<h1 class="title">Log In</h1>
 			<div class="container center">
 				<h2>¿Ya estás registrado? <a href="log-in.php" class="link">Ingresa aquí.</a></h2>
 				<div class="input input--fumi">
