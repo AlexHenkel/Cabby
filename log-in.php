@@ -56,7 +56,7 @@
 			<div class="texture-overlay"></div>
 			<h1 class="title">Log In</h1>
 			<div class="container center">
-				<h2>¿Aún no estás registrado? <a href="log-in.php" class="link">Registrate aquí.</a></h2>
+				<h2>¿Aún no estás registrado? <a href="register.php" class="link">Registrate aquí.</a></h2>
 				<div class="input input--fumi">
 					<input class="input__field input__field--fumi" type="text" id="input-23" />
 					<label class="input__label input__label--fumi" for="input-23">
