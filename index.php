@@ -119,7 +119,7 @@
 							<div class="feature-content">
 								<h1>Padres de Familia</h1>
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta modi perferendis repudiandae error nostrum sint rerum, reprehenderit magnam.</p>
-								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Solicítalo ya <i class="fa fa-chevron-circle-right"></i></a>
+								<a href="#" class="read-more-btn">Solicítalo ya <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 						<div class="col-md-4 feature-2 wp2 delay-05s">
@@ -129,7 +129,7 @@
 							<div class="feature-content">
 								<h1>Adultos Mayores y Personas con Discapacidad</h1>
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta modi perferendis repudiandae error nostrum sint rerum, reprehenderit magnam.</p>
-								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Solicítalo ya <i class="fa fa-chevron-circle-right"></i></a>
+								<a href="#" class="read-more-btn">Solicítalo ya <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 						<div class="col-md-4 feature-3 wp2 delay-1s">
@@ -139,7 +139,7 @@
 							<div class="feature-content">
 								<h1>Empresarios y Ejecutivos</h1>
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta modi perferendis repudiandae error nostrum sint rerum, reprehenderit magnam.</p>
-								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Solicítalo ya <i class="fa fa-chevron-circle-right"></i></a>
+								<a href="#" class="read-more-btn">Solicítalo ya <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 
@@ -178,7 +178,7 @@
 								<div class="avatar"><img src="img/avatar.png" alt="User Avatar"></div>
 								<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc." - Peter Finlan</p>
 							</blockquote>
-							<a href="http://tympanus.net/codrops/?p=22554" class="download-btn">Regístrate! <i class="fa fa-taxi"></i></a>
+							<a href="#" class="download-btn">Regístrate! <i class="fa fa-taxi"></i></a>
 						</div>
 					</div>
 				</div>
@@ -317,7 +317,7 @@
 				<div class="row">
 					<div class="col-md-12 text-center wp4">
 						<h1>¿Has visto demasiado?</h1>
-						<a href="http://tympanus.net/codrops/?p=22554" class="download-btn">Regístrate! <i class="fa fa-taxi"></i></a>
+						<a href="#" class="download-btn">Regístrate! <i class="fa fa-taxi"></i></a>
 					</div>
 				</div>
 			</div>
