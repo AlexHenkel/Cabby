@@ -85,23 +85,13 @@
 					</div>
 					<div class="col-md-6 nopadding">
 						<div class="features-slider">
-								<ul class="slides" id="featuresSlider">
-									<li>
-										<h1>Sobre Nosotros</h1>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
-										<p><a href="log-in.php" class="arrow-btn">¡Comienza a usar nuestro servicio!<i class="fa fa-long-arrow-right"></i></a></p>
-									</li>
-									<li>
-										<h1>Misión</h1>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
-										<p><a href="log-in.php" class="arrow-btn">¡Comienza a usar nuestro servicio!<i class="fa fa-long-arrow-right"></i></a></p>
-									</li>
-									<li>
-										<h1>Visión</h1>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
-										<p><a href="log-in.php" class="arrow-btn">¡Comienza a usar nuestro servicio!<i class="fa fa-long-arrow-right"></i></a></p>
-									</li>
-								</ul>
+							<ul>
+								<li>
+									<h1>Sobre Nosotros</h1>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+									<p><a href="log-in.php" class="arrow-btn">¡Comienza a usar nuestro servicio!<i class="fa fa-long-arrow-right"></i></a></p>
+								</li>
+							</ul>
 						</div>
 					</div>
 				</div>
@@ -117,7 +107,7 @@
 								<i class="fa fa-child"></i>
 							</div>
 							<div class="feature-content">
-								<h1>Padres de Familia</h1>
+								<h1>Cabby Kids</h1>
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta modi perferendis repudiandae error nostrum sint rerum, reprehenderit magnam.</p>
 								<a href="log-in.php" class="read-more-btn">Solicítalo ya <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
@@ -127,7 +117,7 @@
 								<i class="fa fa-heartbeat"></i>
 							</div>
 							<div class="feature-content">
-								<h1>Adultos Mayores y Personas con Discapacidad</h1>
+								<h1>Cabby Grown Ups</h1>
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta modi perferendis repudiandae error nostrum sint rerum, reprehenderit magnam.</p>
 								<a href="log-in.php" class="read-more-btn">Solicítalo ya <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
@@ -137,7 +127,7 @@
 								<i class="fa fa-black-tie"></i>
 							</div>
 							<div class="feature-content">
-								<h1>Empresarios y Ejecutivos</h1>
+								<h1>Cabby Business</h1>
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta modi perferendis repudiandae error nostrum sint rerum, reprehenderit magnam.</p>
 								<a href="log-in.php" class="read-more-btn">Solicítalo ya <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
@@ -196,7 +186,7 @@
 				</div>
 			</div>
 		</section>
-		<section class="screenshots" id="screenshots">
+		<!-- <section class="screenshots" id="screenshots">
 			<div class="container-fluid">
 				<div class="row">
 					<ul class="grid">
@@ -311,7 +301,7 @@
 					</ul>
 				</div>
 			</div>
-		</section>
+		</section> -->
 		<section class="download" id="download">
 			<div class="container">
 				<div class="row">

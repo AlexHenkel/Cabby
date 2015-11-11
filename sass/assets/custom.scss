@@ -27,3 +27,38 @@
 		z-index: -1;
 	}
 }
+
+.service-select {
+	&:hover {
+		cursor: pointer;
+		h1 {
+			color: $icon;
+		}
+
+	}
+	.service-content {
+		h1 {
+			font-size: 18px;
+		}
+	}
+	.feature-icon {
+		margin-right: 0;
+	}
+}
+
+.service-icon {
+	border-color: $link-dark !important;
+	i {
+		color: $link-dark !important;
+	}
+}
+
+.service-container {
+	margin: 15px 0;
+}
+
+@media (min-width: 768px) {
+	.input--nariko {
+		max-width: 500px;
+	}
+}
