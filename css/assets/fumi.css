@@ -1,21 +1,21 @@
 /*
-Error: Undefined variable: "$background-dark".
-        on line 8 of /Users/alexhenkel/Documents/Cabby/sass/assets/custom.scss
+Error: Undefined variable: "$icon".
+        on line 90 of /Users/alexhenkel/Documents/Cabby/sass/assets/fumi.scss
 
-3: }
-4: 
-5: .header {
-6: 	padding: 60px 0;
-7: 	color: #fff;
-8: 	background-color: $background-dark;
-9: }
-10: 
-11: .title {
-12: 	margin: 15px 0;
-13: 	color: #535353;
+85: 
+86: .input__field--fumi {
+87: 	background: transparent;
+88: 	padding: 1.5em 1em 0.25em 3.15em;
+89: 	width: 100%;
+90: 	color: $icon;
+91: }
+92: 
+93: .input__label--fumi {
+94: 	position: absolute;
+95: 	width: 100%;
 
 Backtrace:
-/Users/alexhenkel/Documents/Cabby/sass/assets/custom.scss:8
+/Users/alexhenkel/Documents/Cabby/sass/assets/fumi.scss:90
 /Users/alexhenkel/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Users/alexhenkel/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/script/tree/node.rb:50:in `perform'
 /Users/alexhenkel/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:394:in `visit_prop'
@@ -67,4 +67,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$background-dark\".\A         on line 8 of /Users/alexhenkel/Documents/Cabby/sass/assets/custom.scss\A \A 3: }\A 4: \A 5: .header {\A 6: 	padding: 60px 0;\A 7: 	color: #fff;\A 8: 	background-color: $background-dark;\A 9: }\A 10: \A 11: .title {\A 12: 	margin: 15px 0;\A 13: 	color: #535353;"; }
+  content: "Error: Undefined variable: \"$icon\".\A         on line 90 of /Users/alexhenkel/Documents/Cabby/sass/assets/fumi.scss\A \A 85: \A 86: .input__field--fumi {\A 87: 	background: transparent;\A 88: 	padding: 1.5em 1em 0.25em 3.15em;\A 89: 	width: 100%;\A 90: 	color: $icon;\A 91: }\A 92: \A 93: .input__label--fumi {\A 94: 	position: absolute;\A 95: 	width: 100%;"; }

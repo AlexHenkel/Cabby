@@ -46,7 +46,7 @@
 				<div class="container">
 					<div class="row nav-wrapper">
 						<div class="col-md-6 col-sm-6 col-xs-6 text-left">
-							<a href="#"><img src="img/logo-white.png" alt="Boxify Logo"></a>
+							<a href="#"><img class="logo-img" src="img/cabby/logo.png" alt="Cabby Logo"></a>
 						</div>
 						<div class="col-md-6 col-sm-6 col-xs-6 text-right navicon">
 							<p>MENU</p><a id="trigger-overlay" class="nav_slide_button nav-toggle" href="#"><span></span></a>
@@ -54,8 +54,8 @@
 					</div>
 					<div class="row hero-content">
 						<div class="col-md-12">
-							<h1 class="animated fadeInDown">Tu chofer personalizado, para ciudar a los que más quieres.</h1>
-							<a href="http://tympanus.net/codrops/?p=22554" class="use-btn animated fadeInUp">Comienza ahora</a> 
+							<h1 class="animated fadeInDown">Tu chofer personalizado, para cuidar a los que más quieres.</h1>
+							<a href="log-in.php" class="use-btn animated fadeInUp">Comienza ahora</a> 
 							<a href="#about" class="learn-btn animated fadeInUp">Conónoce más <i class="fa fa-arrow-down"></i></a>
 						</div>
 					</div>
@@ -67,7 +67,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 text-center">
-						<h1><a href="#" class="youtube-media"><i class="fa fa-taxi"></i> Regístrate</a></h1>
+						<h1><a href="register.php"><i class="fa fa-taxi"></i> Regístrate</a></h1>
 					</div>
 				</div>
 			</div>
@@ -89,17 +89,17 @@
 									<li>
 										<h1>Sobre Nosotros</h1>
 										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
-										<p><a href="#features" class="arrow-btn">¡Comienza a usar nuestro servicio!<i class="fa fa-long-arrow-right"></i></a></p>
+										<p><a href="log-in.php" class="arrow-btn">¡Comienza a usar nuestro servicio!<i class="fa fa-long-arrow-right"></i></a></p>
 									</li>
 									<li>
 										<h1>Misión</h1>
 										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
-										<p><a href="#" class="arrow-btn">¡Comienza a usar nuestro servicio!<i class="fa fa-long-arrow-right"></i></a></p>
+										<p><a href="log-in.php" class="arrow-btn">¡Comienza a usar nuestro servicio!<i class="fa fa-long-arrow-right"></i></a></p>
 									</li>
 									<li>
 										<h1>Visión</h1>
 										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
-										<p><a href="#" class="arrow-btn">¡Comienza a usar nuestro servicio!<i class="fa fa-long-arrow-right"></i></a></p>
+										<p><a href="log-in.php" class="arrow-btn">¡Comienza a usar nuestro servicio!<i class="fa fa-long-arrow-right"></i></a></p>
 									</li>
 								</ul>
 						</div>
@@ -119,7 +119,7 @@
 							<div class="feature-content">
 								<h1>Padres de Familia</h1>
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta modi perferendis repudiandae error nostrum sint rerum, reprehenderit magnam.</p>
-								<a href="#" class="read-more-btn">Solicítalo ya <i class="fa fa-chevron-circle-right"></i></a>
+								<a href="log-in.php" class="read-more-btn">Solicítalo ya <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 						<div class="col-md-4 feature-2 wp2 delay-05s">
@@ -129,7 +129,7 @@
 							<div class="feature-content">
 								<h1>Adultos Mayores y Personas con Discapacidad</h1>
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta modi perferendis repudiandae error nostrum sint rerum, reprehenderit magnam.</p>
-								<a href="#" class="read-more-btn">Solicítalo ya <i class="fa fa-chevron-circle-right"></i></a>
+								<a href="log-in.php" class="read-more-btn">Solicítalo ya <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 						<div class="col-md-4 feature-3 wp2 delay-1s">
@@ -139,7 +139,7 @@
 							<div class="feature-content">
 								<h1>Empresarios y Ejecutivos</h1>
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta modi perferendis repudiandae error nostrum sint rerum, reprehenderit magnam.</p>
-								<a href="#" class="read-more-btn">Solicítalo ya <i class="fa fa-chevron-circle-right"></i></a>
+								<a href="log-in.php" class="read-more-btn">Solicítalo ya <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 
@@ -178,7 +178,7 @@
 								<div class="avatar"><img src="img/avatar.png" alt="User Avatar"></div>
 								<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc." - Peter Finlan</p>
 							</blockquote>
-							<a href="#" class="download-btn">Regístrate! <i class="fa fa-taxi"></i></a>
+							<a href="register.php" class="download-btn">Regístrate! <i class="fa fa-taxi"></i></a>
 						</div>
 					</div>
 				</div>
@@ -316,8 +316,8 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 text-center wp4">
-						<h1>¿Has visto demasiado?</h1>
-						<a href="#" class="download-btn">Regístrate! <i class="fa fa-taxi"></i></a>
+						<h1>¿Estás listo para esta experiencia?</h1>
+						<a href="register.php" class="download-btn">Regístrate! <i class="fa fa-taxi"></i></a>
 					</div>
 				</div>
 			</div>
@@ -327,7 +327,7 @@
 				<div class="row">
 					<div class="col-md-5">
 						<h1 class="footer-logo">
-						<img src="img/logo-blue.png" alt="Footer Logo Blue">
+						<a href="#"><img class="logo-img" src="img/cabby/logo-negro.png" alt="Footer Logo"></a>
 						</h1>
 						<p>© Cabby 2015</p>
 					</div>
