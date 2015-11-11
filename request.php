@@ -17,7 +17,11 @@
 
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 		<link href='http://fonts.googleapis.com/css?family=Nunito:400,300,700' rel='stylesheet' type='text/css'>
+		
 		<link href="css/app.css" rel="stylesheet">
+		<link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.2.2/css/bootstrap-combined.min.css" rel="stylesheet">
+	    <link rel="stylesheet" type="text/css" media="screen"
+	     href="http://tarruda.github.com/bootstrap-datetimepicker/assets/css/bootstrap-datetimepicker.min.css">
 		<!-- Facebook and Twitter integration -->
 		<meta property="og:title" content=""/>
 		<meta property="og:image" content=""/>
@@ -108,7 +112,14 @@
 					</div>
 				</div>
 				<div id="parents" class="services-tab hidden">
-					<p>Date: <input type="text" id="datepicker"></p>
+					<!-- <p>Date: <input type="text" id="datepicker"></p> -->
+					<!-- <p>Date: <input value="03/16/15" class="span2" data-date-format="mm/dd/yy" id="dp2" type="text"></p> -->
+					<div id="datetimepicker" class="input-append date">
+				      <input type="text"></input>
+				      <span class="add-on">
+				        <i data-time-icon="icon-time" data-date-icon="icon-calendar"></i>
+				      </span>
+				    </div>
 				</div>
 				<div id="elder" class="services-tab hidden">
 					<h1>elder</h1>
@@ -141,17 +152,27 @@
 		<script src="js/waypoints.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/min/scripts-min.js"></script>
+		<!-- <script src="js/bootstrap-datepicker.js"></script>-->
+		<script type="text/javascript"
+	     src="http://tarruda.github.com/bootstrap-datetimepicker/assets/js/bootstrap-datetimepicker.min.js">
+	    </script>
 
-		  <link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
-		  <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
-		  <script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+		  <!--<link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+		  <script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script> -->
 		  <!-- <link rel="stylesheet" href="/resources/demos/style.css"> -->
 
 		<script>
 
-		$(function() {
-			$( "#datepicker" ).datepicker();
-		});
+		// $(function() {
+		// 	$( "#datepicker" ).datepicker();
+		// });
+
+
+		// $('#dp2').datepicker('setValue', '11/13/15');
+
+		$('#datetimepicker').datetimepicker({
+	        format: 'dd/MM/yyyy hh:mm:ss',
+	      });
 
 		$(document).ready(function() {
 			$('.service-select').click(function() {

@@ -1,0 +1,18 @@
+{
+  "name": "Cabby",
+  "homepage": "https://github.com/AlexHenkel/Cabby",
+  "authors": [
+    "Alejandro Henkel <alehenkel17@gmail.com>"
+  ],
+  "description": "Private driver service",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
