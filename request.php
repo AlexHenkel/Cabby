@@ -516,6 +516,11 @@
 	      });
 
 		$(document).ready(function() {
+
+			$('.icon-time').addClass('fa');
+			$('.icon-time').addClass('fa-clock-o');
+			$('.icon-time').removeClass('icon-time');
+
 			$('.service-select').click(function() {
 				var selected = $(this).attr('id');
 				var selectedId = selected.substring(2);
