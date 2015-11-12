@@ -49,7 +49,7 @@
 				<div class="container">
 					<div class="row nav-wrapper">
 						<div class="col-md-6 col-sm-6 col-xs-6 text-left">
-							<a href="index.php"><img class="logo-img" src="img/cabby/logo.png" alt="Cabby Logo"></a>
+							<a href="index "><img class="logo-img" src="img/cabby/logo.png" alt="Cabby Logo"></a>
 						</div>
 						<div class="col-md-6 col-sm-6 col-xs-6 text-right navicon">
 							<p>Bienvenida, Giulia</p>
@@ -469,7 +469,7 @@
 				<div class="row">
 					<div class="col-md-5">
 						<h1 class="footer-logo">
-						<a href="index.php"><img class="logo-img" src="img/cabby/logo-negro.png" alt="Footer Logo"></a>
+						<a href="index "><img class="logo-img" src="img/cabby/logo-negro.png" alt="Footer Logo"></a>
 						</h1>
 						<p>© Cabby 2015</p>
 					</div>

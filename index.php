@@ -55,7 +55,7 @@
 					<div class="row hero-content">
 						<div class="col-md-12">
 							<h1 class="animated fadeInDown">Tu chofer personalizado, para cuidar a los que más quieres.</h1>
-							<a href="log-in.php" class="use-btn animated fadeInUp">Comienza ahora</a> 
+							<a href="log-in " class="use-btn animated fadeInUp">Comienza ahora</a> 
 							<a href="#about" class="learn-btn animated fadeInUp">Conónoce más <i class="fa fa-arrow-down"></i></a>
 						</div>
 					</div>
@@ -67,7 +67,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 text-center">
-						<h1><a href="register.php"><i class="fa fa-taxi"></i> Regístrate</a></h1>
+						<h1><a href="register "><i class="fa fa-taxi"></i> Regístrate</a></h1>
 					</div>
 				</div>
 			</div>
@@ -90,7 +90,7 @@
 									<h1>Sobre Nosotros</h1>
 									<p>Somos una empresa mexicana que se enfoca en desarrollar una experiencia segura y hecha a la medida para un excelente traslado. Contamos con choferes especializados hacia tus necesidades las cuales incluye facilidad en el traslado en la ciudad, brindando un buen trato y seguridad. 
 Nuestros servicios consiste en llevar a nuestros clientes de un lugar a otro sustituyendo el uso de un automóvil propio o taxis (regulares o ejecutivos). </p>
-									<p><a href="log-in.php" class="arrow-btn">¡Comienza a usar nuestro servicio!<i class="fa fa-long-arrow-right"></i></a></p>
+									<p><a href="log-in " class="arrow-btn">¡Comienza a usar nuestro servicio!<i class="fa fa-long-arrow-right"></i></a></p>
 								</li>
 							</ul>
 						</div>
@@ -110,7 +110,7 @@ Nuestros servicios consiste en llevar a nuestros clientes de un lugar a otro sus
 							<div class="feature-content">
 								<h1>Cabby Kids</h1>
 								<p>Enfocado a padres de familia con hijos pequeños mayores de 6 años, entendemos que te preocupes por los pequeños y que quieras que lleguen a tiempo y a salvo. Para eso existe CabbyKids en donde aparte de cumplir con tus expectativas cuenta con las de tus pequeños creando un trayecto entretenido para ellos. </p>
-								<a href="log-in.php" class="read-more-btn">Solicítalo ya <i class="fa fa-chevron-circle-right"></i></a>
+								<a href="log-in " class="read-more-btn">Solicítalo ya <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 						<div class="col-md-4 feature-2 wp2 delay-05s">
@@ -120,7 +120,7 @@ Nuestros servicios consiste en llevar a nuestros clientes de un lugar a otro sus
 							<div class="feature-content">
 								<h1>Cabby Grown Ups</h1>
 								<p>Entendemos que tienes que llegar a tiempo y de manera especializada por eso contamos con todos los requerimientos para tu viaje seguro con un chofer que comprenda todo lo que requieres para llegar a tu destino.</p>
-								<a href="log-in.php" class="read-more-btn">Solicítalo ya <i class="fa fa-chevron-circle-right"></i></a>
+								<a href="log-in " class="read-more-btn">Solicítalo ya <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 						<div class="col-md-4 feature-3 wp2 delay-1s">
@@ -130,7 +130,7 @@ Nuestros servicios consiste en llevar a nuestros clientes de un lugar a otro sus
 							<div class="feature-content">
 								<h1>Cabby Business</h1>
 								<p>Comodidad, seguridad, eficiencia y elegancia. Combinamos lo mejor de ti aplicándolo a tu trayecto y tu destino. </p>
-								<a href="log-in.php" class="read-more-btn">Solicítalo ya <i class="fa fa-chevron-circle-right"></i></a>
+								<a href="log-in " class="read-more-btn">Solicítalo ya <i class="fa fa-chevron-circle-right"></i></a>
 							</div>
 						</div>
 
@@ -160,7 +160,7 @@ Nuestros servicios consiste en llevar a nuestros clientes de un lugar a otro sus
 							<h1>En CABBY brindamos... </h1>
 							<p><b>Servicio personalizado:</b>  Buscamos dar el servicio de tal manera que sea exactamente lo que el cliente esta buscando, en el momento exacto, con las características necesarias para que el cliente sienta una experiencia placentera y segura en su trayecto.</p>
 							<p><b>Excelente experiencia:</b>  Cuidamos todos los detalles para que tengas un viaje cómodo, diferente y seguro. En donde cumplamos todo lo que se requiere para llegar a tiempo y seguro, creando un trayecto relajado, confiable.</p>
-							<a href="register.php" class="download-btn">Regístrate! <i class="fa fa-taxi"></i></a>
+							<a href="register " class="download-btn">Regístrate! <i class="fa fa-taxi"></i></a>
 						</div>
 					</div>
 				</div>
@@ -181,7 +181,7 @@ Nuestros servicios consiste en llevar a nuestros clientes de un lugar a otro sus
 				<div class="row">
 					<div class="col-md-12 text-center wp4">
 						<h1>¿Estás listo para esta experiencia?</h1>
-						<a href="register.php" class="download-btn">Regístrate! <i class="fa fa-taxi"></i></a>
+						<a href="register " class="download-btn">Regístrate! <i class="fa fa-taxi"></i></a>
 					</div>
 				</div>
 			</div>

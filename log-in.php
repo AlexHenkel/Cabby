@@ -45,7 +45,7 @@
 				<div class="container">
 					<div class="row nav-wrapper">
 						<div class="col-md-6 col-sm-6 col-xs-6 text-left">
-							<a href="index.php"><img class="logo-img" src="img/cabby/logo.png" alt="Cabby Logo"></a>
+							<a href="index "><img class="logo-img" src="img/cabby/logo.png" alt="Cabby Logo"></a>
 						</div>
 					</div>
 				</div>
@@ -56,7 +56,7 @@
 			<div class="texture-overlay"></div>
 			<h1 class="title">Log In</h1>
 			<div class="container center">
-				<h2>¿Aún no estás registrado? <a href="register.php" class="link">Registrate aquí.</a></h2>
+				<h2>¿Aún no estás registrado? <a href="register " class="link">Registrate aquí.</a></h2>
 				<div class="input input--fumi">
 					<input class="input__field input__field--fumi" type="text" id="input-23" />
 					<label class="input__label input__label--fumi" for="input-23">
@@ -72,7 +72,7 @@
 					</label>
 				</div>
 				<br>
-				<a href="request.php" class="middle button button--tamaya button--border-thick" data-text="Ingresar"><span>Ingresar</span></a>
+				<a href="request " class="middle button button--tamaya button--border-thick" data-text="Ingresar"><span>Ingresar</span></a>
 			</div>
 		</section>
 		
@@ -81,7 +81,7 @@
 				<div class="row">
 					<div class="col-md-5">
 						<h1 class="footer-logo">
-						<a href="index.php"><img class="logo-img" src="img/cabby/logo-negro.png" alt="Footer Logo"></a>
+						<a href="index "><img class="logo-img" src="img/cabby/logo-negro.png" alt="Footer Logo"></a>
 						</h1>
 						<p>© Cabby 2015</p>
 					</div>
