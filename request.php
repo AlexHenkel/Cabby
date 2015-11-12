@@ -302,12 +302,13 @@
 						</div>
 					</div>
 					<p class="label-form">Fecha y Hora de Recepción: </p>
-					<div id="datetimepicker" class="input-append date">
+					<div id="datetimepicker1" class="input-append date">
 					    <input type="text"></input>
 					    <span class="add-on">
 					    	<i class="fa fa-calendar"></i>
 					    </span>
 					</div>
+					<br>
 					<span class="input input--nariko" style="margin-top: 0">
 						<input class="input__field input__field--nariko" type="text" id="input-20" />
 						<label class="input__label input__label--nariko" for="input-20">
@@ -422,7 +423,7 @@
 						</div>
 					</div>
 					<p class="label-form">Fecha y Hora de Recepción: </p>
-					<div id="datetimepicker" class="input-append date">
+					<div id="datetimepicker2" class="input-append date">
 					    <input type="text"></input>
 					    <span class="add-on">
 					    	<i class="fa fa-calendar"></i>
@@ -505,6 +506,12 @@
 		// $('#dp2').datepicker('setValue', '11/13/15');
 
 		$('#datetimepicker').datetimepicker({
+	        format: 'dd/MM/yyyy hh:mm:ss',
+	      });
+		$('#datetimepicker1').datetimepicker({
+	        format: 'dd/MM/yyyy hh:mm:ss',
+	      });
+		$('#datetimepicker2').datetimepicker({
 	        format: 'dd/MM/yyyy hh:mm:ss',
 	      });
 
