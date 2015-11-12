@@ -34,7 +34,7 @@
 	}
 }
 
-.service-select {
+.service-select, .car-select {
 	&:hover {
 		cursor: pointer;
 		h1 {
@@ -52,6 +52,12 @@
 	}
 }
 
+.car-content {
+	h1 {
+		line-height: 24px;
+	}
+}
+
 .service-icon {
 	border-color: $link-dark !important;
 	i {
@@ -61,6 +67,65 @@
 
 .service-container {
 	margin: 15px 0;
+}
+
+.c-yellow {
+	color: $icon !important;
+}
+
+.time-container, .pay-cointainer {
+	.button--tamaya {
+		min-width: 150px;
+	}
+}
+
+.b-orange::before, .b-orange::after {
+	background: $highlight !important; 
+}
+
+img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    vertical-align: middle;
+    border: 0;
+    -ms-interpolation-mode: bicubic;
+}
+
+.input-append .add-on, .input-prepend .add-on {
+    display: inline-block;
+    width: auto;
+    // height: 20px;
+    min-width: 16px;
+    padding: 4px 5px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 20px;
+    text-align: center;
+    text-shadow: 0 1px 0 #fff;
+    background-color: #eee;
+    border: 1px solid #ccc;
+}
+
+.label-form {
+	display: inline-block;
+	font-size: 20px;
+}
+
+.label-form-one {
+	font-size: 20px;
+}
+
+.label-cost {
+	font-size: 50px;
+}
+
+.date {
+	display: inline;
+}
+
+.payment {
+	display: none;
 }
 
 @media (min-width: 768px) {

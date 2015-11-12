@@ -17,9 +17,9 @@
 
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 		<link href='http://fonts.googleapis.com/css?family=Nunito:400,300,700' rel='stylesheet' type='text/css'>
-		
+		<!-- <link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.2.2/css/bootstrap-combined.min.css" rel="stylesheet"> -->
 		<link href="css/app.css" rel="stylesheet">
-		<link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.2.2/css/bootstrap-combined.min.css" rel="stylesheet">
+		
 	    <link rel="stylesheet" type="text/css" media="screen"
 	     href="http://tarruda.github.com/bootstrap-datetimepicker/assets/css/bootstrap-datetimepicker.min.css">
 		<!-- Facebook and Twitter integration -->
@@ -112,20 +112,354 @@
 					</div>
 				</div>
 				<div id="parents" class="services-tab hidden">
-					<!-- <p>Date: <input type="text" id="datepicker"></p> -->
-					<!-- <p>Date: <input value="03/16/15" class="span2" data-date-format="mm/dd/yy" id="dp2" type="text"></p> -->
+					<div class="container service-container">
+						<div class="row">
+							<div class="col-md-12">
+								<div class="col-md-4 feature-1 wp2">
+									<div class="car-select" id="s-car">
+										<img src="img/cabby/sedan.png" alt="">
+										<div class="service-content car-content">
+											<h1>
+												-1 Pantalla
+											</h1>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-4 feature-2 wp2 delay-05s">
+									<div class="car-select" id="s-pickup">
+										<img src="img/cabby/camioneta.png" alt="">
+										<div class="service-content car-content">
+											<h1>
+												-1 Pantalla
+												<br>
+												-2 Tablets
+											</h1>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-4 feature-3 wp2 delay-1s">
+									<div class="car-select" id="s-minivan">
+										<img src="img/cabby/minivan.png" alt="">
+										<div class="service-content car-content">
+											<h1>
+												-1 Pantalla
+												<br>
+												-2 Tablets
+												<br>
+												-Snacks Nutritivos
+											</h1>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="container time-container">
+						<div class="row">
+							<div class="col-md-12">
+								<div class="col-md-2 col-md-offset-1">
+									<div class="time-select" id="s-once">
+										<a class="middle button button--tamaya button--border-thick" data-text="Una vez"><span>Una vez</span></a>
+									</div>
+								</div>
+								<div class="col-md-2 delay-05s">
+									<div class="time-select" id="s-hour">
+										<a class="middle button button--tamaya button--border-thick" data-text="Hora"><span>Hora</span></a>
+									</div>
+								</div>
+								<div class="col-md-2 delay-1s">
+									<div class="time-select" id="s-day">
+										<a class="middle button button--tamaya button--border-thick" data-text="Día"><span>Día</span></a>
+									</div>
+								</div>
+								<div class="col-md-2 delay-1s">
+									<div class="time-select" id="s-week">
+										<a class="middle button button--tamaya button--border-thick" data-text="Semana"><span>Semana</span></a>
+									</div>
+								</div>
+								<div class="col-md-2 delay-1s">
+									<div class="time-select" id="s-month">
+										<a class="middle button button--tamaya button--border-thick" data-text="Mes"><span>Mes</span></a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="label-form">Fecha y Hora de Recepción: </p>
 					<div id="datetimepicker" class="input-append date">
-				      <input type="text"></input>
-				      <span class="add-on">
-				        <i data-time-icon="icon-time" data-date-icon="icon-calendar"></i>
-				      </span>
-				    </div>
+					    <input type="text"></input>
+					    <span class="add-on">
+					    	<i class="fa fa-calendar"></i>
+					    </span>
+					</div>
+					
+					<p class="label-form-one">Método de pago:</p>
+					<div class="container pay-container">
+						<div class="row">
+							<div class="col-md-12">
+								<div class="col-md-3">
+									<div class="pay-select" id="s-cash">
+										<a class="middle button button--tamaya button--border-thick" data-text="Efectivo"><span>Efectivo</span></a>
+									</div>
+								</div>
+								<div class="col-md-3 delay-05s">
+									<div class="pay-select" id="s-debit">
+										<a class="middle button button--tamaya button--border-thick" data-text="Débito"><span>Débito</span></a>
+									</div>
+								</div>
+								<div class="col-md-3 delay-1s">
+									<div class="pay-select" id="s-credit">
+										<a class="middle button button--tamaya button--border-thick" data-text="Crédito"><span>Crédito</span></a>
+									</div>
+								</div>
+								<div class="col-md-3 delay-1s">
+									<div class="pay-select" id="s-online">
+										<a class="middle button button--tamaya button--border-thick" data-text="Online"><span>Online</span></a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="payment">
+						<p class="label-form-one">Costo Aproximado: </p>
+						<p class="label-cost">$100 - $150</p>
+					</div>
+					<a style="display: none" class="request middle button button--tamaya button--border-thick" data-text="Solicitar"><span>Solicitar</span></a>
+				    
 				</div>
 				<div id="elder" class="services-tab hidden">
-					<h1>elder</h1>
+					<div class="container service-container">
+						<div class="row">
+							<div class="col-md-12">
+								<div class="col-md-4 feature-1 wp2">
+									<div class="car-select" id="s-car">
+										<img src="img/cabby/sedan.png" alt="">
+										<div class="service-content car-content">
+											<h1>
+												-1 Pantalla
+											</h1>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-4 feature-2 wp2 delay-05s">
+									<div class="car-select" id="s-pickup">
+										<img src="img/cabby/camioneta.png" alt="">
+										<div class="service-content car-content">
+											<h1>
+												-1 Pantalla
+												<br>
+												-2 Tablets
+											</h1>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-4 feature-3 wp2 delay-1s">
+									<div class="car-select" id="s-minivan">
+										<img src="img/cabby/minivan.png" alt="">
+										<div class="service-content car-content">
+											<h1>
+												-1 Pantalla
+												<br>
+												-2 Tablets
+												<br>
+												-Snacks Nutritivos
+											</h1>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="container time-container">
+						<div class="row">
+							<div class="col-md-12">
+								<div class="col-md-2 col-md-offset-1">
+									<div class="time-select" id="s-once">
+										<a class="middle button button--tamaya button--border-thick" data-text="Una vez"><span>Una vez</span></a>
+									</div>
+								</div>
+								<div class="col-md-2 delay-05s">
+									<div class="time-select" id="s-hour">
+										<a class="middle button button--tamaya button--border-thick" data-text="Hora"><span>Hora</span></a>
+									</div>
+								</div>
+								<div class="col-md-2 delay-1s">
+									<div class="time-select" id="s-day">
+										<a class="middle button button--tamaya button--border-thick" data-text="Día"><span>Día</span></a>
+									</div>
+								</div>
+								<div class="col-md-2 delay-1s">
+									<div class="time-select" id="s-week">
+										<a class="middle button button--tamaya button--border-thick" data-text="Semana"><span>Semana</span></a>
+									</div>
+								</div>
+								<div class="col-md-2 delay-1s">
+									<div class="time-select" id="s-month">
+										<a class="middle button button--tamaya button--border-thick" data-text="Mes"><span>Mes</span></a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="label-form">Fecha y Hora de Recepción: </p>
+					<div id="datetimepicker" class="input-append date">
+					    <input type="text"></input>
+					    <span class="add-on">
+					    	<i class="fa fa-calendar"></i>
+					    </span>
+					</div>
+					<span class="input input--nariko" style="margin-top: 0">
+						<input class="input__field input__field--nariko" type="text" id="input-20" />
+						<label class="input__label input__label--nariko" for="input-20">
+							<span class="input__label-content input__label-content--nariko">Requerimientos Especiales</span>
+						</label>
+					</span>
+					<p class="label-form-one">Método de pago:</p>
+					<div class="container pay-container">
+						<div class="row">
+							<div class="col-md-12">
+								<div class="col-md-3">
+									<div class="pay-select" id="s-cash">
+										<a class="middle button button--tamaya button--border-thick" data-text="Efectivo"><span>Efectivo</span></a>
+									</div>
+								</div>
+								<div class="col-md-3 delay-05s">
+									<div class="pay-select" id="s-debit">
+										<a class="middle button button--tamaya button--border-thick" data-text="Débito"><span>Débito</span></a>
+									</div>
+								</div>
+								<div class="col-md-3 delay-1s">
+									<div class="pay-select" id="s-credit">
+										<a class="middle button button--tamaya button--border-thick" data-text="Crédito"><span>Crédito</span></a>
+									</div>
+								</div>
+								<div class="col-md-3 delay-1s">
+									<div class="pay-select" id="s-online">
+										<a class="middle button button--tamaya button--border-thick" data-text="Online"><span>Online</span></a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="payment">
+						<p class="label-form-one">Costo Aproximado: </p>
+						<p class="label-cost">$100 - $150</p>
+					</div>
+					<a style="display: none" class="request middle button button--tamaya button--border-thick" data-text="Solicitar"><span>Solicitar</span></a>
 				</div>
 				<div id="business" class="services-tab hidden">
-					<h1>business</h1>
+					<div class="container service-container">
+						<div class="row">
+							<div class="col-md-12">
+								<div class="col-md-4 feature-1 wp2">
+									<div class="car-select" id="s-car">
+										<img src="img/cabby/sedan.png" alt="">
+										<div class="service-content car-content">
+											<h1>
+												-1 Pantalla
+											</h1>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-4 feature-2 wp2 delay-05s">
+									<div class="car-select" id="s-pickup">
+										<img src="img/cabby/camioneta.png" alt="">
+										<div class="service-content car-content">
+											<h1>
+												-1 Pantalla
+												<br>
+												-2 Tablets
+											</h1>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-4 feature-3 wp2 delay-1s">
+									<div class="car-select" id="s-minivan">
+										<img src="img/cabby/minivan.png" alt="">
+										<div class="service-content car-content">
+											<h1>
+												-1 Pantalla
+												<br>
+												-2 Tablets
+												<br>
+												-Snacks Nutritivos
+											</h1>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="container time-container">
+						<div class="row">
+							<div class="col-md-12">
+								<div class="col-md-2 col-md-offset-1">
+									<div class="time-select" id="s-once">
+										<a class="middle button button--tamaya button--border-thick" data-text="Una vez"><span>Una vez</span></a>
+									</div>
+								</div>
+								<div class="col-md-2 delay-05s">
+									<div class="time-select" id="s-hour">
+										<a class="middle button button--tamaya button--border-thick" data-text="Hora"><span>Hora</span></a>
+									</div>
+								</div>
+								<div class="col-md-2 delay-1s">
+									<div class="time-select" id="s-day">
+										<a class="middle button button--tamaya button--border-thick" data-text="Día"><span>Día</span></a>
+									</div>
+								</div>
+								<div class="col-md-2 delay-1s">
+									<div class="time-select" id="s-week">
+										<a class="middle button button--tamaya button--border-thick" data-text="Semana"><span>Semana</span></a>
+									</div>
+								</div>
+								<div class="col-md-2 delay-1s">
+									<div class="time-select" id="s-month">
+										<a class="middle button button--tamaya button--border-thick" data-text="Mes"><span>Mes</span></a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="label-form">Fecha y Hora de Recepción: </p>
+					<div id="datetimepicker" class="input-append date">
+					    <input type="text"></input>
+					    <span class="add-on">
+					    	<i class="fa fa-calendar"></i>
+					    </span>
+					</div>
+					<p class="label-form-one">Método de pago:</p>
+					<div class="container pay-container">
+						<div class="row">
+							<div class="col-md-12">
+								<div class="col-md-3">
+									<div class="pay-select" id="s-cash">
+										<a class="middle button button--tamaya button--border-thick" data-text="Efectivo"><span>Efectivo</span></a>
+									</div>
+								</div>
+								<div class="col-md-3 delay-05s">
+									<div class="pay-select" id="s-debit">
+										<a class="middle button button--tamaya button--border-thick" data-text="Débito"><span>Débito</span></a>
+									</div>
+								</div>
+								<div class="col-md-3 delay-1s">
+									<div class="pay-select" id="s-credit">
+										<a class="middle button button--tamaya button--border-thick" data-text="Crédito"><span>Crédito</span></a>
+									</div>
+								</div>
+								<div class="col-md-3 delay-1s">
+									<div class="pay-select" id="s-online">
+										<a class="middle button button--tamaya button--border-thick" data-text="Online"><span>Online</span></a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="payment">
+						<p class="label-form-one">Costo Aproximado: </p>
+						<p class="label-cost">$100 - $150</p>
+					</div>
+					<a style="display: none" class="request middle button button--tamaya button--border-thick" data-text="Solicitar"><span>Solicitar</span></a>
 				</div>
 			</div>
 		</section>
@@ -187,6 +521,43 @@
 				});
 				$('#' + selectedId).removeClass('hidden');
 				$(this).children('.feature-icon').removeClass('service-icon'); 
+			});
+
+			$('.car-select').click(function() {
+				var selected = $(this).attr('id');
+
+				$('.car-content').each(function() {
+					$(this).removeClass('c-yellow');
+				});
+
+				$('#' + selected + ' .car-content').addClass('c-yellow');
+			});
+
+			$('.time-select').click(function() {
+				var selected = $(this).attr('id');
+
+				$('.button--tamaya').each(function() {
+					$(this).removeClass('b-orange');
+				});
+
+				$('#' + selected + ' .button--tamaya').addClass('b-orange');
+			});
+			$('.pay-select').click(function() {
+				var selected = $(this).attr('id');
+
+				$('.button--tamaya').each(function() {
+					$(this).removeClass('b-orange');
+				});
+
+				$('.payment').show();
+				$('.request').show();
+
+				$('#' + selected + ' .button--tamaya').addClass('b-orange');
+			});
+
+			$('.request').click(function() {
+				alert('Tu pedido ha sido exitoso!');
+			    location.reload();
 			});
 		});
 		</script>
